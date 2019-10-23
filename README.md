@@ -1,2 +1,2 @@
 # Screener
-Stock Screener in Python
+Stock Screener made with opensource web based framework Dash
